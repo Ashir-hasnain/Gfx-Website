@@ -1,0 +1,15 @@
+{
+  "name": "ashir",
+  "version": "1.0.0",
+  "description": "make a Gfx MArk Website Project For portlofio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ashir",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
